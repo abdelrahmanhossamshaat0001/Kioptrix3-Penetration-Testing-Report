@@ -73,9 +73,10 @@ The assessment demonstrates a full attack chain from network reconnaissance and 
 
 - **Abdulrahman Hossam Shaat**
 - **Abdulrahman Wael Nabil**
-•Mansour Mohamed
-•Mohamed Ali
-•Mohamed Farid
+- **Mansour Mohamed**
+- **Mohamed Ali**
+- **Mohamed Farid**
+
 ## Disclaimer
 
 All IP addresses, credentials, vulnerabilities, and exploitation evidence in this repository relate to an intentionally vulnerable educational machine. Do not test systems without explicit authorization.
